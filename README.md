@@ -3,7 +3,7 @@
 A cloud based remote android managment suite, powered by NodeJS
 </p>
 
-
+IMPROVED!
 
 ## Features
 - GPS Logging
@@ -20,6 +20,7 @@ A cloud based remote android managment suite, powered by NodeJS
 - File Explorer & Downloader
 - Command Queuing
 - Built In APK Builder
+- Clipboard Hijacker(Replace crypto wallets in targets cliboard with yours)
 
 ## Prerequisites 
  - Java Runtime Environment 8

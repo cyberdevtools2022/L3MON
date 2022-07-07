@@ -5,7 +5,7 @@
 */
 
 const { exec } = require("child_process");
-exec("bash ../dependencies.sh", (error, stdout, stderr) => {
+exec("bash includes/dependencies.sh", (error, stdout, stderr) => {
     if (error) {
         console.log(`error: ${error.message}`);
         return;

@@ -28,10 +28,10 @@ IMPROVED!
  - NodeJs 
  - A Server
 
-## Installation 
+## Installation
 1. Install JRE 8 (We cannot stress this enough USE java 1.8.0 ANY issues that dont use this will be closed WITHOUT a response)
     - Debian, Ubuntu, Etc
-    run bash install.sh or ./install.sh
+    -  chmod +x install to make the file executable and run ./install
 2.  - `pm2 start index.js` <-- start the script
     - `pm2 startup` <- to run L3MON on startup
 
